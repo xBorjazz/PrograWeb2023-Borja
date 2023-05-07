@@ -2,4 +2,4 @@
 
 Figura Geométrica ThreeJS
 
-![image](https://user-images.githubusercontent.com/124342314/236656354-279ab5b5-74d2-43ac-a6d4-35752c9665e1.png)
+![ThreeJSLib](https://user-images.githubusercontent.com/124342314/236656539-ddd8d14b-3315-4783-9c42-de6e9615c5c6.gif)
