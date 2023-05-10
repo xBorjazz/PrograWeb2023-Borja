@@ -25,7 +25,7 @@ let pointLight = new THREE.PointLight (0xffffff, 1);
 scene.add( cube )
 scene.add( ambientLight )
 scene.add( pointLight );
-pointLight.position.set(20,50,35);
+pointLight.position.set(5,5,5);
 
 //Creamos la segunda figura geometrica la cual es transparente
 let geometry2 = new THREE.BoxGeometry( 3, 3, 3)
